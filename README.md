@@ -9,3 +9,5 @@
     2-Image Gallery using HTML, CSS, and JavaScript.
 
     3-Password Toggler using HTML, CSS, and JavaScript.
+
+    4-Note App using HTML, CSS, and JavaScript.
